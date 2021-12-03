@@ -1,0 +1,8 @@
+D:\ThucTapNET_PhamThanhToan\bai19\bai19\bin\Debug\bai19.exe
+D:\ThucTapNET_PhamThanhToan\bai19\bai19\bin\Debug\bai19.pdb
+D:\ThucTapNET_PhamThanhToan\bai19\bai19\obj\x86\Debug\bai19.Form1.resources
+D:\ThucTapNET_PhamThanhToan\bai19\bai19\obj\x86\Debug\bai19.Properties.Resources.resources
+D:\ThucTapNET_PhamThanhToan\bai19\bai19\obj\x86\Debug\bai19.csproj.GenerateResource.Cache
+D:\ThucTapNET_PhamThanhToan\bai19\bai19\obj\x86\Debug\bai19.exe
+D:\ThucTapNET_PhamThanhToan\bai19\bai19\obj\x86\Debug\bai19.pdb
+D:\ThucTapNET_PhamThanhToan\bai19\bai19\obj\x86\Debug\bai19.csprojResolveAssemblyReference.cache

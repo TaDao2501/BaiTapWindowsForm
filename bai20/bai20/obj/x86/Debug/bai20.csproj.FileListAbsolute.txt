@@ -1,0 +1,9 @@
+D:\ThucTapNET_PhamThanhToan\bai20\bai20\bin\Debug\bai20.exe
+D:\ThucTapNET_PhamThanhToan\bai20\bai20\bin\Debug\bai20.pdb
+D:\ThucTapNET_PhamThanhToan\bai20\bai20\obj\x86\Debug\bai20.Form1.resources
+D:\ThucTapNET_PhamThanhToan\bai20\bai20\obj\x86\Debug\bai20.Properties.Resources.resources
+D:\ThucTapNET_PhamThanhToan\bai20\bai20\obj\x86\Debug\bai20.csproj.GenerateResource.Cache
+D:\ThucTapNET_PhamThanhToan\bai20\bai20\obj\x86\Debug\bai20.exe
+D:\ThucTapNET_PhamThanhToan\bai20\bai20\obj\x86\Debug\bai20.pdb
+D:\C#_N4\hihi\ThucTapNET_PhamThanhToan\bai20\bai20\obj\x86\Debug\bai20.exe
+D:\C#_N4\hihi\ThucTapNET_PhamThanhToan\bai20\bai20\obj\x86\Debug\bai20.pdb
