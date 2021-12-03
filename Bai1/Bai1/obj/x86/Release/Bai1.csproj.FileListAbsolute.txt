@@ -1,0 +1,8 @@
+D:\ThucTapNET_PhamThanhToan\Bai1\Bai1\bin\Release\Bai1.exe
+D:\ThucTapNET_PhamThanhToan\Bai1\Bai1\bin\Release\Bai1.pdb
+D:\ThucTapNET_PhamThanhToan\Bai1\Bai1\obj\x86\Release\Bai1.Form1.resources
+D:\ThucTapNET_PhamThanhToan\Bai1\Bai1\obj\x86\Release\Bai1.Properties.Resources.resources
+D:\ThucTapNET_PhamThanhToan\Bai1\Bai1\obj\x86\Release\Bai1.csproj.GenerateResource.Cache
+D:\ThucTapNET_PhamThanhToan\Bai1\Bai1\obj\x86\Release\Bai1.exe
+D:\ThucTapNET_PhamThanhToan\Bai1\Bai1\obj\x86\Release\Bai1.pdb
+D:\ThucTapNET_PhamThanhToan\Bai1\Bai1\obj\x86\Release\Bai1.csprojResolveAssemblyReference.cache
