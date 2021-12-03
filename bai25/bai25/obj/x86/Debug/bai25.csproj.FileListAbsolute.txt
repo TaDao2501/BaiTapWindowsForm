@@ -1,0 +1,6 @@
+D:\ThucTapNET_PhamThanhToan\bai25\bai25\bin\Debug\bai25.exe
+D:\ThucTapNET_PhamThanhToan\bai25\bai25\bin\Debug\bai25.pdb
+D:\ThucTapNET_PhamThanhToan\bai25\bai25\obj\x86\Debug\bai25.exe
+D:\ThucTapNET_PhamThanhToan\bai25\bai25\obj\x86\Debug\bai25.pdb
+C:\Users\tadao\Desktop\C#_N4\C#_N4\hihi\ThucTapNET_PhamThanhToan\bai25\bai25\obj\x86\Debug\bai25.exe
+C:\Users\tadao\Desktop\C#_N4\C#_N4\hihi\ThucTapNET_PhamThanhToan\bai25\bai25\obj\x86\Debug\bai25.pdb

@@ -1,0 +1,13 @@
+D:\ThucTapNET_PhamThanhToan\bai24\bai24\bin\Debug\bai24.exe
+D:\ThucTapNET_PhamThanhToan\bai24\bai24\bin\Debug\bai24.pdb
+D:\ThucTapNET_PhamThanhToan\bai24\bai24\obj\x86\Debug\bai24.exe
+D:\ThucTapNET_PhamThanhToan\bai24\bai24\obj\x86\Debug\bai24.pdb
+C:\Users\thuho\Desktop\ThucTapNET_PhamThanhToan\ThucTapNET_PhamThanhToan\bai24\bai24\obj\x86\Debug\bai24.exe
+C:\Users\thuho\Desktop\ThucTapNET_PhamThanhToan\ThucTapNET_PhamThanhToan\bai24\bai24\obj\x86\Debug\bai24.pdb
+C:\Users\thuho\Desktop\ThucTapNET_PhamThanhToan\ThucTapNET_PhamThanhToan\bai24\bai24\bin\Debug\bai24.exe
+C:\Users\thuho\Desktop\ThucTapNET_PhamThanhToan\ThucTapNET_PhamThanhToan\bai24\bai24\bin\Debug\bai24.pdb
+C:\Users\thuho\Desktop\ThucTapNET_PhamThanhToan\ThucTapNET_PhamThanhToan\bai24\bai24\obj\x86\Debug\bai24.csprojResolveAssemblyReference.cache
+D:\C#_N4\hihi\ThucTapNET_PhamThanhToan\bai24\bai24\obj\x86\Debug\bai24.exe
+D:\C#_N4\hihi\ThucTapNET_PhamThanhToan\bai24\bai24\obj\x86\Debug\bai24.pdb
+C:\Users\tadao\Desktop\C#_N4\C#_N4\hihi\ThucTapNET_PhamThanhToan\bai24\bai24\obj\x86\Debug\bai24.exe
+C:\Users\tadao\Desktop\C#_N4\C#_N4\hihi\ThucTapNET_PhamThanhToan\bai24\bai24\obj\x86\Debug\bai24.pdb
