@@ -1,0 +1,16 @@
+D:\ThucTapNET_PhamThanhToan\bai30\bai30\bin\Debug\bai30.exe
+D:\ThucTapNET_PhamThanhToan\bai30\bai30\bin\Debug\bai30.pdb
+D:\ThucTapNET_PhamThanhToan\bai30\bai30\obj\x86\Debug\bai30.Form1.resources
+D:\ThucTapNET_PhamThanhToan\bai30\bai30\obj\x86\Debug\bai30.Properties.Resources.resources
+D:\ThucTapNET_PhamThanhToan\bai30\bai30\obj\x86\Debug\bai30.csproj.GenerateResource.Cache
+D:\ThucTapNET_PhamThanhToan\bai30\bai30\obj\x86\Debug\bai30.exe
+D:\ThucTapNET_PhamThanhToan\bai30\bai30\obj\x86\Debug\bai30.pdb
+D:\ThucTapNET_PhamThanhToan\bai30\bai30\obj\x86\Debug\bai30.csprojResolveAssemblyReference.cache
+C:\Users\thuho\Desktop\ThucTapNET_PhamThanhToan\ThucTapNET_PhamThanhToan\bai30\bai30\obj\x86\Debug\bai30.exe
+C:\Users\thuho\Desktop\ThucTapNET_PhamThanhToan\ThucTapNET_PhamThanhToan\bai30\bai30\obj\x86\Debug\bai30.pdb
+C:\Users\thuho\Desktop\ThucTapNET_PhamThanhToan\ThucTapNET_PhamThanhToan\bai30\bai30\bin\Debug\bai30.exe
+C:\Users\thuho\Desktop\ThucTapNET_PhamThanhToan\ThucTapNET_PhamThanhToan\bai30\bai30\bin\Debug\bai30.pdb
+C:\Users\thuho\Desktop\ThucTapNET_PhamThanhToan\ThucTapNET_PhamThanhToan\bai30\bai30\obj\x86\Debug\bai30.csprojResolveAssemblyReference.cache
+C:\Users\thuho\Desktop\ThucTapNET_PhamThanhToan\ThucTapNET_PhamThanhToan\bai30\bai30\obj\x86\Debug\bai30.Form1.resources
+C:\Users\thuho\Desktop\ThucTapNET_PhamThanhToan\ThucTapNET_PhamThanhToan\bai30\bai30\obj\x86\Debug\bai30.Properties.Resources.resources
+C:\Users\thuho\Desktop\ThucTapNET_PhamThanhToan\ThucTapNET_PhamThanhToan\bai30\bai30\obj\x86\Debug\bai30.csproj.GenerateResource.Cache
