@@ -1,0 +1,15 @@
+D:\ThucTapNET_PhamThanhToan\Bai7\Bai7\bin\Debug\Database1.sdf
+D:\ThucTapNET_PhamThanhToan\Bai7\Bai7\bin\Debug\Bai7.exe.config
+D:\ThucTapNET_PhamThanhToan\Bai7\Bai7\bin\Debug\Bai7.exe
+D:\ThucTapNET_PhamThanhToan\Bai7\Bai7\bin\Debug\Bai7.pdb
+D:\ThucTapNET_PhamThanhToan\Bai7\Bai7\obj\x86\Debug\Bai7.Form1.resources
+D:\ThucTapNET_PhamThanhToan\Bai7\Bai7\obj\x86\Debug\Bai7.Properties.Resources.resources
+D:\ThucTapNET_PhamThanhToan\Bai7\Bai7\obj\x86\Debug\Bai7.csproj.GenerateResource.Cache
+D:\ThucTapNET_PhamThanhToan\Bai7\Bai7\obj\x86\Debug\Bai7.exe
+D:\ThucTapNET_PhamThanhToan\Bai7\Bai7\obj\x86\Debug\Bai7.pdb
+C:\Users\thuho\Desktop\ThucTapNET_PhamThanhToan\ThucTapNET_PhamThanhToan\Bai7\Bai7\bin\Debug\Bai7.exe.config
+C:\Users\thuho\Desktop\ThucTapNET_PhamThanhToan\ThucTapNET_PhamThanhToan\Bai7\Bai7\obj\x86\Debug\Bai7.exe
+C:\Users\thuho\Desktop\ThucTapNET_PhamThanhToan\ThucTapNET_PhamThanhToan\Bai7\Bai7\obj\x86\Debug\Bai7.pdb
+C:\Users\tadao\Desktop\C#_N4\C#_N4\hihi\ThucTapNET_PhamThanhToan\Bai7\Bai7\bin\Debug\Bai7.exe.config
+C:\Users\tadao\Desktop\C#_N4\C#_N4\hihi\ThucTapNET_PhamThanhToan\Bai7\Bai7\obj\x86\Debug\Bai7.exe
+C:\Users\tadao\Desktop\C#_N4\C#_N4\hihi\ThucTapNET_PhamThanhToan\Bai7\Bai7\obj\x86\Debug\Bai7.pdb

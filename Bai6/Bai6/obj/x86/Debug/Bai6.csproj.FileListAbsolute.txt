@@ -1,0 +1,8 @@
+D:\ThucTapNET_PhamThanhToan\Bai6\Bai6\bin\Debug\Bai6.exe
+D:\ThucTapNET_PhamThanhToan\Bai6\Bai6\bin\Debug\Bai6.pdb
+D:\ThucTapNET_PhamThanhToan\Bai6\Bai6\obj\x86\Debug\Bai6.Form1.resources
+D:\ThucTapNET_PhamThanhToan\Bai6\Bai6\obj\x86\Debug\Bai6.Properties.Resources.resources
+D:\ThucTapNET_PhamThanhToan\Bai6\Bai6\obj\x86\Debug\Bai6.csproj.GenerateResource.Cache
+D:\ThucTapNET_PhamThanhToan\Bai6\Bai6\obj\x86\Debug\Bai6.exe
+D:\ThucTapNET_PhamThanhToan\Bai6\Bai6\obj\x86\Debug\Bai6.pdb
+D:\ThucTapNET_PhamThanhToan\Bai6\Bai6\obj\x86\Debug\Bai6.csprojResolveAssemblyReference.cache
