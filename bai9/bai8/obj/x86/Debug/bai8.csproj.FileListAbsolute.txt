@@ -1,0 +1,13 @@
+D:\ThucTapNET_PhamThanhToan\bai8\bai8\bin\Debug\bai8.exe
+D:\ThucTapNET_PhamThanhToan\bai8\bai8\bin\Debug\bai8.pdb
+D:\ThucTapNET_PhamThanhToan\bai8\bai8\obj\x86\Debug\bai8.Form1.resources
+D:\ThucTapNET_PhamThanhToan\bai8\bai8\obj\x86\Debug\bai8.Properties.Resources.resources
+D:\ThucTapNET_PhamThanhToan\bai8\bai8\obj\x86\Debug\bai8.csproj.GenerateResource.Cache
+D:\ThucTapNET_PhamThanhToan\bai8\bai8\obj\x86\Debug\bai8.exe
+D:\ThucTapNET_PhamThanhToan\bai8\bai8\obj\x86\Debug\bai8.pdb
+D:\ThucTapNET_PhamThanhToan\bai9\bai8\obj\x86\Debug\bai8.exe
+D:\ThucTapNET_PhamThanhToan\bai9\bai8\obj\x86\Debug\bai8.pdb
+C:\Users\tadao\Desktop\C#_N4\C#_N4\hihi\ThucTapNET_PhamThanhToan\bai9\bai8\obj\x86\Debug\bai8.exe
+C:\Users\tadao\Desktop\C#_N4\C#_N4\hihi\ThucTapNET_PhamThanhToan\bai9\bai8\obj\x86\Debug\bai8.pdb
+C:\Users\tadao\Desktop\ThemSuaXoa\C#_N4\C#_N4\hihi\ThucTapNET_PhamThanhToan\bai9\bai8\obj\x86\Debug\bai8.exe
+C:\Users\tadao\Desktop\ThemSuaXoa\C#_N4\C#_N4\hihi\ThucTapNET_PhamThanhToan\bai9\bai8\obj\x86\Debug\bai8.pdb
