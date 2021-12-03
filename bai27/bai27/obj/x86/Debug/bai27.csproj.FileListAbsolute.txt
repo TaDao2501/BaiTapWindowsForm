@@ -1,0 +1,9 @@
+D:\ThucTapNET_PhamThanhToan\bai27\bai27\bin\Debug\bai27.exe
+D:\ThucTapNET_PhamThanhToan\bai27\bai27\bin\Debug\bai27.pdb
+D:\ThucTapNET_PhamThanhToan\bai27\bai27\obj\x86\Debug\bai27.Form1.resources
+D:\ThucTapNET_PhamThanhToan\bai27\bai27\obj\x86\Debug\bai27.Properties.Resources.resources
+D:\ThucTapNET_PhamThanhToan\bai27\bai27\obj\x86\Debug\bai27.csproj.GenerateResource.Cache
+D:\ThucTapNET_PhamThanhToan\bai27\bai27\obj\x86\Debug\bai27.exe
+D:\ThucTapNET_PhamThanhToan\bai27\bai27\obj\x86\Debug\bai27.pdb
+C:\Users\tadao\Desktop\C#_N4\C#_N4\hihi\ThucTapNET_PhamThanhToan\bai27\bai27\obj\x86\Debug\bai27.exe
+C:\Users\tadao\Desktop\C#_N4\C#_N4\hihi\ThucTapNET_PhamThanhToan\bai27\bai27\obj\x86\Debug\bai27.pdb

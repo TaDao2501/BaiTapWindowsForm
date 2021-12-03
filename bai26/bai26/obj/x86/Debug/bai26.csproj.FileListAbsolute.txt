@@ -1,0 +1,9 @@
+D:\ThucTapNET_PhamThanhToan\bai26\bai26\bin\Debug\bai26.exe
+D:\ThucTapNET_PhamThanhToan\bai26\bai26\bin\Debug\bai26.pdb
+D:\ThucTapNET_PhamThanhToan\bai26\bai26\obj\x86\Debug\bai26.Form1.resources
+D:\ThucTapNET_PhamThanhToan\bai26\bai26\obj\x86\Debug\bai26.Properties.Resources.resources
+D:\ThucTapNET_PhamThanhToan\bai26\bai26\obj\x86\Debug\bai26.csproj.GenerateResource.Cache
+D:\ThucTapNET_PhamThanhToan\bai26\bai26\obj\x86\Debug\bai26.exe
+D:\ThucTapNET_PhamThanhToan\bai26\bai26\obj\x86\Debug\bai26.pdb
+C:\Users\tadao\Desktop\C#_N4\C#_N4\hihi\ThucTapNET_PhamThanhToan\bai26\bai26\obj\x86\Debug\bai26.exe
+C:\Users\tadao\Desktop\C#_N4\C#_N4\hihi\ThucTapNET_PhamThanhToan\bai26\bai26\obj\x86\Debug\bai26.pdb
